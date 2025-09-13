@@ -52,6 +52,18 @@
 </p>
 
 
+
+
+---
+
+## 🚀 Wanna Know Me More?
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1y6qhI8AJGc8rHtDhKMtW8PEcZfDfB2MX/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-GoogleDrive-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
 ---
 
 
