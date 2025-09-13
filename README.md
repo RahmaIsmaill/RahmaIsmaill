@@ -35,19 +35,22 @@
 
 ---
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect With Me
-
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with Me
 <p align="center">
-  <a href="rahmaismail2010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rahma-ismail-629250254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/RahmaIsmaill">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+	<a href="mailto:rahmaismail2010@gmail.com">
+		<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+	</a>
+	<a href="https://www.linkedin.com/in/rahma-ismail-629250254">
+		<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+<!-- 	<a href="https://leetcode.com/u/RahmaIsmail/">
+		<img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=white" alt="LeetCode"/>
+	</a> -->
+<!-- 	<a href="https://codeforces.com/profile/Try_again.">
+		<img src="https://img.shields.io/badge/codeforces-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" alt="Codeforces"/>
+	</a> -->
 </p>
+
 
 ---
 
