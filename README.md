@@ -38,10 +38,10 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect With Me
 
 <p align="center">
-  <a href="mailto:rahmaismail2010@gmail.com">
+  <a href="rahmaismail2010@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="(https://www.linkedin.com/in/rahma-ismail-629250254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+  <a href="https://www.linkedin.com/in/rahma-ismail-629250254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/RahmaIsmaill">
