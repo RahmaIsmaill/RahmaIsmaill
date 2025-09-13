@@ -1,54 +1,66 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👋 Hi, I'm Rahma Ismail <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hi, I'm Rahma Ismail <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
-🎓 **CS Student** | 💻 **Competitive Programmer (CP'er)**  
-🌱 Currently learning **Java Backend Development (Spring Boot)**  
-💡 Passionate about **problem solving** & **building useful apps**  
-
----
-
-</div>
-
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/rahma-ismail-629250254" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-<!--   <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /> -->
-<!--   </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a> -->
-</p>
-
----
-
-## 🚀 Skills
-- **Languages:** Java · Python · C++  
-- **Web Development:** HTML · CSS · JavaScript · Spring Boot  
-- **Databases:** MySQL · PostgreSQL  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahmaIsmail&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmaIsmail&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&width=600&lines=CS+Student;Java+Backend+Developer;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 💫 Let's Connect!
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1y6qhI8AJGc8rHtDhKMtW8PEcZfDfB2MX/view?usp=sharing)  
+## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%"> About Me
 
-✨ *“Code never lies, comments sometimes do.”*  
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%">
+
+- 🎓 I’m a **CS Student**  
+- 💻 Passionate about **Competitive Programming** and **Backend Development**  
+- 🌱 Currently learning **Java (Spring Boot)**  
+- 📧 Reach me at: **rahmaismail2010@gmail.com**
 
 ---
+
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="9%"> Competitive Programming Profiles
 
 <div align="center">
-<p>⭐ If you like my work, consider following me — I’ll follow back! 😊</p>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Image" />
+  <a href="https://codeforces.com/profile/Rahma_ismail">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  &emsp;
+  <a href="https://leetcode.com/u/RahmaIsmail/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </div>
+
+---
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect With Me
+
+<p align="center">
+  <a href="mailto:rahmaismail2010@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="(https://www.linkedin.com/in/rahma-ismail-629250254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RahmaIsmaill">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahmaIsmail/RahmaIsmail/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahmaIsmail/RahmaIsmail/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/RahmaIsmail/RahmaIsmail/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
