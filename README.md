@@ -14,10 +14,10 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%">
 
-- 🎓 I’m a **CS Student**  
-- 💻 Passionate about **Competitive Programming** and **Backend Development**  
-- 🌱 Currently learning **Java (Spring Boot)**  
-- 📧 Reach me at: **rahmaismail2010@gmail.com**
+-  I’m a **CS Student**  
+-  Passionate about **Competitive Programming** and **Backend Development**  
+-  Currently learning **Java (Spring Boot)**  
+-  Reach me at: **rahmaismail2010@gmail.com**
 
 ---
 
